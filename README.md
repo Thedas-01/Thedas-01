@@ -10,11 +10,19 @@
 </p>
 <h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3> <br>
 
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/thedas-01/thedas-01/main/resources/img/github-contribution-grid-snake.svg"
+    alt="thedas-01" />
+</p>
+
+<br>
+
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=thedas-01&label=Profile%20views&color=0e75b6&style=flat" alt="thedas-01" /> </p>
 
 ---
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 260px></picture>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 260px></picture><br>
 
 - 🌱 I’m currently learning **.Net**
 
@@ -27,6 +35,8 @@
 - 📫 How to reach me **thedassriharisha@gmail.com**
 
 - ⚡ Fun fact **Call Me As Thedas**
+
+<br>
 
  ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20"><b> Languages and Tools : </b>
 <br>
@@ -62,13 +72,33 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
 
-## <img src="https://th.bing.com/th/id/R.011db7f1e14cdcefd5ed8b056f70d038?rik=NHHx7PD%2bLTi5YA&riu=http%3a%2f%2fui.trinine.net%2fwp%2fwp-content%2fuploads%2f2016%2f06%2f20160602_GraphAnimeIcon.gif&ehk=TXXGvgTPI6i%2f5xQe%2fW3mnT36hQPfIBwZcQsaKAlJWhs%3d&risl=&pid=ImgRaw&r=0" width="25"> <b>Github Stats</b>
+<br>
+
+## <img src="https://th.bing.com/th/id/R.011db7f1e14cdcefd5ed8b056f70d038?rik=NHHx7PD%2bLTi5YA&riu=http%3a%2f%2fui.trinine.net%2fwp%2fwp-content%2fuploads%2f2016%2f06%2f20160602_GraphAnimeIcon.gif&ehk=TXXGvgTPI6i%2f5xQe%2fW3mnT36hQPfIBwZcQsaKAlJWhs%3d&risl=&pid=ImgRaw&r=0" width="25"> <b>Github Stats :</b>
+
+__Check out my GitHub repository:__
+
+<div>
+  <p>
+    <a href="https://github.com/Bhargavi-hash/HotelFranchiseDBMS.git">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=HotelFranchiseDBMS" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/Bhargavi-hash/Linux-Shell-Implementation.git">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=Linux-Shell-Implementation" alt="GitHub Stats" />
+    </a>
+  </p>
+</div>
 
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thedas-01&show_icons=true&locale=en&layout=compact" alt="thedas-01" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thedas-01&show_icons=true&locale=en" alt="thedas-01" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thedas-01&" alt="thedas-01" /></p>
+<div align="center">
+  
+[![](https://github-readme-stats.vercel.app/api?username=thedas-01&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/thedas-01)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=thedas-01&theme=material-palenight)](https://github.com/thedas-01)
+</div>
+
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
@@ -77,6 +107,8 @@
 <a href="https://www.instagram.com/thedas_sri_harisha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thedas-sri-harisha" height="30" width="40" /></a>
 <a href="https://dribbble.com/harisha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="harisha" height="30" width="40" /></a>
 </p>
+
+<br>
 
 <h3 align="left">Support:</h3>
 <p align="center">
