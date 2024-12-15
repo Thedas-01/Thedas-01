@@ -6,16 +6,22 @@
 <h1 align="center">Hi 👋, I'm Thedas Sri Harisha</h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+To+My+Profile...&hearts;++;Self-taught+Full-Stack+Developer,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
-</p>
-<h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3> <br>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+To+My+Profile...&hearts;++;Self-taught+Full-Stack+Developer,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a></p>
+  
+<h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
 
 <p align="center">
-  <img  src="https://raw.githubusercontent.com/thedas-01/thedas-01/main/resources/img/github-contribution-grid-snake.svg"
-    alt="thedas-01" />
+  <img src="https://custom-icon-badges.herokuapp.com/badge/Star-yellow.svg?logo=star" alt="Star Badge">
+  <img src="https://custom-icon-badges.herokuapp.com/badge/Issue-red.svg?logo=issue" alt="Issue Badge">
+  <img src="https://custom-icon-badges.herokuapp.com/badge/Fork-orange.svg?logo=fork" alt="Fork Badge">
+  <img src="https://custom-icon-badges.herokuapp.com/badge/Commit-green.svg?logo=commit" alt="Commit Badge">
+  <img src="https://custom-icon-badges.herokuapp.com/badge/Pull%20Request-purple.svg?logo=pr" alt="Pull Request Badge">
 </p>
 
-<br>
+
+<p align="center">
+  <img src="https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation">
+</p>
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=thedas-01&label=Profile%20views&color=0e75b6&style=flat" alt="thedas-01" /> </p>
@@ -24,17 +30,15 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 260px></picture><br>
 
+- 👨🏽‍💻  I’m currently Studying at **SLIIT** as a **IT student**
+
 - 🌱 I’m currently learning **.Net**
 
-- 📫 How to reach me **thedassriharisha@gmail.com**
-
 - ⚡ Fun fact **Call Me As Thedas**
-
--  🌱 I’m currently learning **.Net**
 
 - 📫 How to reach me **thedassriharisha@gmail.com**
 
-- ⚡ Fun fact **Call Me As Thedas**
+- 🌐 You can see my personal website through [here](https://www.google.com)
 
 <br>
 
@@ -47,6 +51,8 @@
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 20px>  </picture> IDEs
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 20px>  </picture> Operating Systems
 
+  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="280px"/>
+  
 <br>
 <p align="left"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
@@ -109,15 +115,18 @@ __Check out my GitHub repository:__
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture>Connect with me:
 <p align="center">
+<a href="https://github.com/Thedas-01" target="blank"><img align="center" src="https://img.icons8.com/dusk/40/000000/internet--v1.png" alt="HridoyHazard" height="30" width="30" /></a>
 <a href="https://www.linkedin.com/in/thedas-sri-harisha-328098198/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/thedas-sri-harisha-328098198/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/people/Thedas-Sri-Harisha/100074413705204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thedas sri harisha" height="30" width="40" /></a>
 <a href="https://www.instagram.com/thedas_sri_harisha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thedas-sri-harisha" height="30" width="40" /></a>
-<a href="https://dribbble.com/harisha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="harisha" height="30" width="40" /></a>
+<a href="https://github.com/Thedas-01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="HridoyHazard" height="30" width="40" /></a>
+
 </p>
 
 <br>
 
+---
+
 <h3 align="left">Support:</h3>
-<p align="center">
-  <a href="https://ko-fi.com/harisha"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="thedas-01" /></a>
+<p align="center"><a href="https://www.buymeacoffee.com/Thedas"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="thedas-01" /></a>
 </p><br>
