@@ -3,7 +3,16 @@
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h1 align="center">Hi 👋, I'm Thedas Sri Harisha</h1>
+<h1 align="center">
+  <a target="_blank">
+    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;">
+  </a>
+  𝐇𝐞𝐥𝐥𝐨,
+  <a target="_blank">
+    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
+    I'm Thedas Sri Harisha
+  </a>
+</h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+To+My+Profile...&hearts;++;Self-taught+Full-Stack+Developer,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a></p>
@@ -28,17 +37,19 @@
 
 ---
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 260px></picture><br>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 280px></picture><br>
 
-- 👨🏽‍💻  I’m currently Studying at **SLIIT** as a **IT student**
+ 👨🏽‍💻  I’m currently Studying at **SLIIT** as a **IT student**
 
-- 🌱 I’m currently learning **.Net**
+ 🌱 I’m currently learning **.Net**
 
-- ⚡ Fun fact **Call Me As Thedas**
+ ⚡ Fun fact **Call Me As Thedas**
+ 
+ 🔄 Routine : **Eat - Sleep - Code - Repeat**
 
-- 📫 How to reach me **thedassriharisha@gmail.com**
+ 📫 How to reach me **thedassriharisha@gmail.com**
 
-- 🌐 You can see my personal website through [here](https://www.google.com)
+ 🌐 You can see my personal website through [here](https://www.google.com)
 
 <br>
 
@@ -50,8 +61,6 @@
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 20px>  </picture> Software & Tools
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 20px>  </picture> IDEs
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 20px>  </picture> Operating Systems
-
-  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="280px"/>
   
 <br>
 <p align="left"> 
@@ -87,33 +96,45 @@
 
 <br>
 
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Github Stats
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="30px"> </picture> Github Stats
 
-__Check out my GitHub repository:__
-
-<div>
-  <p align="center">
+### Check out my GitHub repositories:
+<div align="center">
+  <p>
     <a href="https://github.com/Bhargavi-hash/HotelFranchiseDBMS.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=HotelFranchiseDBMS" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=HotelFranchiseDBMS&theme=tokyonight" alt="Hotel Franchise DBMS" />
     </a>
     <a href="https://github.com/Bhargavi-hash/Linux-Shell-Implementation.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=Linux-Shell-Implementation" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=Linux-Shell-Implementation&theme=tokyonight" alt="Linux Shell Implementation" />
     </a>
   </p>
 </div>
 
 ---
 
-<div align="center">
-  
-[![](https://github-readme-stats.vercel.app/api?username=thedas-01&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/thedas-01)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=thedas-01&theme=material-palenight)](https://github.com/thedas-01)
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  <!-- Left Side: GitHub Stats and Streak Stats -->
+  <div align="left">
+    <a href="https://github.com/thedas-01">
+      <img src="https://github-readme-stats.vercel.app/api?username=thedas-01&show_icons=true&theme=tokyonight&hide_border=true&locale=en&card_width=400" alt="Thedas GitHub Stats" />
+    </a><br>
+    <a href="https://github.com/thedas-01">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=thedas-01&theme=tokyonight&hide_border=true&card_width=400" alt="Thedas Streak Stats" />
+    </a>
+  </div>
+
+  <!-- Right Side: Top Languages -->
+  <div align="right">
+    <a href="https://github.com/thedas-01">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thedas-01&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&card_width=300" alt="Top Languages" />
+    </a>
+  </div>
 </div>
 
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thedas-01&show_icons=true&locale=en&layout=compact" alt="thedas-01" /></p>
-<br>
+
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture>Connect with me:
+<br>
 <p align="center">
 <a href="https://github.com/Thedas-01" target="blank"><img align="center" src="https://img.icons8.com/dusk/40/000000/internet--v1.png" alt="HridoyHazard" height="30" width="30" /></a>
 <a href="https://www.linkedin.com/in/thedas-sri-harisha-328098198/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/thedas-sri-harisha-328098198/" height="30" width="40" /></a>
