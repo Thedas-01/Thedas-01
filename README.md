@@ -96,7 +96,7 @@
 
 <br>
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="30px"> </picture> Github Stats
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="28px"> </picture> Github Stats
 
 ### Check out my GitHub repositories:
 <div align="center">
@@ -141,9 +141,7 @@
 <a href="https://www.facebook.com/people/Thedas-Sri-Harisha/100074413705204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thedas sri harisha" height="30" width="40" /></a>
 <a href="https://www.instagram.com/thedas_sri_harisha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thedas-sri-harisha" height="30" width="40" /></a>
 <a href="https://github.com/Thedas-01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="HridoyHazard" height="30" width="40" /></a>
-
 </p>
-
 <br>
 
 ---
