@@ -26,12 +26,7 @@
   <img src="https://custom-icon-badges.herokuapp.com/badge/Commit-green.svg?logo=commit" alt="Commit Badge">
   <img src="https://custom-icon-badges.herokuapp.com/badge/Pull%20Request-purple.svg?logo=pr" alt="Pull Request Badge">
 </p>
-
-
-<p align="center">
-  <img src="https://github.com/thedas-01/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation">
-</p>
-
+</br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=thedas-01&label=Profile%20views&color=0e75b6&style=flat" alt="thedas-01" /> </p>
 
@@ -117,31 +112,29 @@
 ### Check out my GitHub repositories:
 <div align="center">
   <p>
-    <a href="https://github.com/Bhargavi-hash/HotelFranchiseDBMS.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=HotelFranchiseDBMS&theme=tokyonight" alt="Hotel Franchise DBMS" />
+     <a href="https://github.com/Thedas-01/Portfolio-Website">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=thedas-01&repo=Portfolio-Website&theme=tokyonight" alt="Portfolio-Website" />
     </a>
-    <a href="https://github.com/Bhargavi-hash/Linux-Shell-Implementation.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=Linux-Shell-Implementation&theme=tokyonight" alt="Linux Shell Implementation" />
+     <a href="https://github.com/Thedas-01/Salon-Mangement-Sytem">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=thedas-01&repo=Salon-Mangement-Sytem&theme=tokyonight" alt="Salon-Mangement-Sytem" />
     </a>
   </p>
 </div>
 
 ---
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thedas-01&theme=tokyonight&hide_border=true" alt="Thedas Streak Stats" width="420px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thedas-01&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="300px"/>
+</p>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<p align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thedas-01&theme=solarized_dark">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thedas-01&theme=solarized_dark">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thedas-01&theme=solarized_dark">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=thedas-01&theme=solarized_dark">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thedas-01&theme=solarized_dark&utcOffset=8">
-  
-</br>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thedas-01&theme=tokyonight&hide_border=true" alt="Thedas Streak Stats" width="420px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thedas-01&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="300px"/>
-</p>
-
 
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture>Connect with me:
