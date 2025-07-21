@@ -127,25 +127,20 @@
 </div>
 
 ---
+<p align="center">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thedas-01&theme=solarized_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thedas-01&theme=solarized_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thedas-01&theme=solarized_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=thedas-01&theme=solarized_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thedas-01&theme=solarized_dark&utcOffset=8">
+  
+</br>
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
-  <!-- Left Side: GitHub Stats and Streak Stats -->
-  <div align="left">
-    <a href="https://github.com/thedas-01">
-      <img src="https://github-readme-stats.vercel.app/api?username=thedas-01&show_icons=true&theme=tokyonight&hide_border=true&locale=en&card_width=400" alt="Thedas GitHub Stats" />
-    </a><br>
-    <a href="https://github.com/thedas-01">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=thedas-01&theme=tokyonight&hide_border=true&card_width=400" alt="Thedas Streak Stats" />
-    </a>
-  </div>
-
-  <!-- Right Side: Top Languages -->
-  <div align="right">
-    <a href="https://github.com/thedas-01">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thedas-01&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&card_width=300" alt="Top Languages" />
-    </a>
-  </div>
-</div>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thedas-01&theme=tokyonight&hide_border=true" alt="Thedas Streak Stats" width="420px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thedas-01&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="300px"/>
+</p>
 
 
 
