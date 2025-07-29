@@ -123,7 +123,6 @@
 
 ---
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thedas-01&theme=tokyonight&hide_border=true" alt="Thedas Streak Stats" width="420px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thedas-01&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="300px"/>
 </p>
 
