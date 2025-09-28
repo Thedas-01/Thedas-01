@@ -64,7 +64,7 @@
 
  📫 How to reach me **thedassriharisha@gmail.com**
 
- 🌐 You can see my personal website through [here](https://www.google.com)
+ 🌐 You can see my personal website through [here](https://68d701bdf00e180cd2356852--thedasportfolio.netlify.app)
 
 <br>
 
