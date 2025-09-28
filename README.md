@@ -112,8 +112,8 @@
 ### Check out my GitHub repositories:
 <div align="center">
   <p>
-     <a href="https://github.com/Thedas-01/Portfolio-Website">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=thedas-01&repo=Portfolio-Website&theme=tokyonight" alt="Portfolio-Website" />
+     <a href="https://github.com/Thedas-01/Portfolio">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=thedas-01&repo=Portfolio&theme=tokyonight" alt="Portfolio" />
     </a>
      <a href="https://github.com/Thedas-01/Salon-Mangement-Sytem">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=thedas-01&repo=Salon-Mangement-Sytem&theme=tokyonight" alt="Salon-Mangement-Sytem" />
