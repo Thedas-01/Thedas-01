@@ -110,21 +110,33 @@
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="28px"> </picture> Github Stats
 
 ### Check out my GitHub repositories:
-<div align="center">
-  <p>
-     <a href="https://github.com/Thedas-01/Portfolio">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=thedas-01&repo=Portfolio&theme=tokyonight" alt="Portfolio" />
-    </a>
-     <a href="https://github.com/Thedas-01/Salon-Mangement-Sytem">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=thedas-01&repo=Salon-Mangement-Sytem&theme=tokyonight" alt="Salon-Mangement-Sytem" />
-    </a>
-  </p>
-</div>
+<table align="center" style="border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <!-- Portfolio Card -->
+    <td style="border: none; padding: 15px;" valign="top">
+      <a href="https://github.com/Thedas-01/Portfolio" target="_blank">
+        <img src="https://img.shields.io/badge/Thedas--01%20/%20Portfolio-1a1b26?style=flat-square&logo=github&logoColor=white&labelColor=7aa2f7" height="28" alt="Portfolio Repo" /><br/>
+        <img src="https://img.shields.io/badge/Frontend-React.js-7aa2f7?style=flat-square&logo=react" height="20" />
+        <img src="https://img.shields.io/badge/Styling-Tailwind_CSS-38BDB8?style=flat-square&logo=tailwindcss" height="20" />
+      </a>
+    </td>
+    <!-- Salon Management System Card -->
+    <td style="border: none; padding: 15px;" valign="top">
+      <a href="https://github.com/Thedas-01/Salon-Mangement-Sytem" target="_blank">
+        <img src="https://img.shields.io/badge/Thedas--01%20/%20Salon--System-1a1b26?style=flat-square&logo=github&logoColor=white&labelColor=bb9af7" height="28" alt="Salon System Repo" /><br/>
+        <img src="https://img.shields.io/badge/Backend-Mongo_DB-bb9af7?style=flat-square&logo=openjdk&logoColor=white" height="20" />
+        <img src="https://img.shields.io/badge/Database-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" height="20" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thedas-01&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="300px"/>
 </p>
+
+
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
