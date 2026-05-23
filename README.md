@@ -64,7 +64,7 @@
 
  📫 How to reach me **thedassriharisha@gmail.com**
 
- 🌐 You can see my personal website through [here](https://68d701bdf00e180cd2356852--thedasportfolio.netlify.app)
+ 🌐 You can see my personal website through [here](https://thedasportfolio.netlify.app)
 
 <br>
 
@@ -124,6 +124,23 @@
 ---
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thedas-01&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="300px"/>
+</p>
+
+### Check out my GitHub repositories:
+
+<p align="center">
+  <a href="https://github.com/Thedas-01/Portfolio">
+    <img src="https://github-readme-stats.all-the-things.site/api/pin/?username=thedas-01&repo=Portfolio&theme=tokyonight" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/Thedas-01/Salon-Mangement-Sytem">
+    <img src="https://github-readme-stats.all-the-things.site/api/pin/?username=thedas-01&repo=Salon-Mangement-Sytem&theme=tokyonight" alt="Salon-Mangement-Sytem" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.all-the-things.site/api/top-langs?username=thedas-01&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" width="300" alt="Top Languages" />
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
