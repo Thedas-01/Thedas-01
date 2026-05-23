@@ -133,10 +133,10 @@
 
 ---
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thedas-01&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="300px"/>
+  <a href="https://github.com/Thedas-01">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=thedas-01&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  </a>
 </p>
-
-
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
