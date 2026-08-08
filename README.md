@@ -151,7 +151,8 @@
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture>Connect with me:
 <br>
 <p align="center">
-<a href="https://68d701bdf00e180cd2356852--thedasportfolio.netlify.app" target="blank"><img align="center" src="https://img.icons8.com/dusk/40/000000/internet--v1.png" alt="HridoyHazard" height="30" width="30" /></a>
+<a href="https://zintraitsolutions.com" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.icons8.com/dusk/40/000000/web.png" alt="Browser 1" height="30" width="30" /></a>
+<a href="https://zintraitsolutions.com" target="blank"><img align="center" src="https://img.icons8.com/dusk/40/000000/internet--v1.png" alt="HridoyHazard" height="30" width="30" /></a>
 <a href="https://www.linkedin.com/in/thedas-sri-harisha-328098198/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/thedas-sri-harisha-328098198/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/people/Thedas-Sri-Harisha/100074413705204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thedas sri harisha" height="30" width="40" /></a>
 <a href="https://www.instagram.com/thedas_sri_harisha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thedas-sri-harisha" height="30" width="40" /></a>
